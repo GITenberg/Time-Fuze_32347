@@ -1,0 +1,41 @@
+_repo: Time-Fuze_32347
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Jorgensen, Ivar
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Space flight -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Time Fuze
+url: http://www.gutenberg.org/ebooks/32347
